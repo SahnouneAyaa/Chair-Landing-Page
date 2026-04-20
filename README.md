@@ -1,4 +1,4 @@
-# Chair Landing Page – HTML & CSS
+# Chair Landing Page
 
 A simple product landing page built using pure HTML and CSS as part of my early learning journey in frontend development.
 
